@@ -1,0 +1,1 @@
+export const MONGO_URI = 'mongodb://0.0.0.0:27017/online_food_delivery';
